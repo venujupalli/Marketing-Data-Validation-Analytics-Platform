@@ -1,0 +1,2 @@
+rule,severity,count,sample_rows,run_timestamp
+data_latency,critical,1,campaign_id=1|date=2025-08-25 00:00:00.000000,2025-09-28T21:16:33+00:00
